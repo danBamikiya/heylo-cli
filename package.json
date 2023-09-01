@@ -1,5 +1,5 @@
 {
-  "name": "heylo",
+  "name": "@danbamikiya/heylo",
   "version": "1.0.0",
   "description": "",
   "main": "./build/cli.js",
@@ -13,8 +13,13 @@
   "pkg": {
     "scripts": "build/**/*.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "Dan Bamikiya",
+  "repository": "https://github.com/danBamikiya/heylo",
+  "homepage": "https://github.com/danBamikiya/heylo#readme",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.5.6",
